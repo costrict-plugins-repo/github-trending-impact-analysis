@@ -1,0 +1,14 @@
+{
+  "name": "impact-analysis",
+  "version": "2.0.0",
+  "description": "Shows blast radius before editing files. Dependency graph, function severity, reverse impact, TS path aliases, change history tracking. Configurable via .impactrc.json.",
+  "author": {
+    "name": "OveR & Claude",
+    "email": "ghenamolodoy@gmail.com",
+    "url": "https://x.com/OveR_XBT"
+  },
+  "homepage": "https://github.com/Overbafer999/claude-impact-analysis",
+  "repository": "https://github.com/Overbafer999/claude-impact-analysis",
+  "license": "MIT",
+  "keywords": ["impact", "blast-radius", "dependency", "refactoring", "safety"]
+}
